@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+#Titulo{
+    font-family: "Toledo";
+    text-align: center;
+    background-color:#F39;
+    border-radius: 30px;
+    box-shadow: -1px 1px 7px 5px rgba(178, 235, 242,0.75);
+}
+
+
+	
+
+ body header {
+background-color: #F3C;
+text-align:center;
+color: #FC6;
+text-shadow: 4px 2px #Fff;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif";
+font-size:xx-large;
+box-shadow:0 0 15px rgba(0, 0, 0, 5);
+
+
+}	
+
+.bts
+{
+	 width:200px;
+  left:200px;
+/**box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);**/
+ /**border: 6px solid #30F;**/
+}
+.borde{
+	background-color:#F69;
+	box-shadow: -1px 1px 7px 0px rgba ( 178, 235, 242 0.75);
+	margin-top: 3px;
+}
+
+
+.borde{
+	box-shadow: -1px 1px 30px 30px rgba(0, 255, 255, 0.75);
+	
+}
